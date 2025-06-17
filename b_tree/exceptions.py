@@ -1,0 +1,1 @@
+class BTreeException(Exception): pass
